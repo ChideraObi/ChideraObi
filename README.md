@@ -1,10 +1,11 @@
 # Hey, I'm Chidera 👩🏾‍💻
+`image placeholder`
 
 ## About Me 🧠
-text
+`placeholder`
 
 ## Offline 📵
-text
+`plaeholder`
 
 ## Find Me 🔍
 - Instagram
