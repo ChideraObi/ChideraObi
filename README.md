@@ -1,12 +1,12 @@
 # Hey, I'm Chidera 👩🏾‍💻
 
-##About Me
+## About Me
 text
 
-##Offline
+## Offline
 text
 
-##Find Me On...
+## Find Me On...
 - Instagram
 - LinkedIn
 - Dribble
