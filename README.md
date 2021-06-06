@@ -1,17 +1,21 @@
 # Hey, I'm Chidera 👩🏾‍💻
-`image placeholder`
+`img placeholder`
 
 ## About Me 🧠
-`placeholder`
+Front-end developer and illustrator based in Atlanta, GA. Fascinated by everything web/ui related. Proudly Igbo 🇳🇬.
+
+- 🌱 Studying: `react`, `sass`, `human anatomy`
+- ⚙️ Mastering: `.html`,`.css`,`.js`, `adobe CC`
+- 👐🏾 Open to: Collaboration Projects & Full-time Roles
 
 ## Offline 📵
 - Simulation Games
 - Anime & Manga
 - Traveling
 - Hiking
-- Illustration & Designs (Art & Interior)
+- Visual Art & Design
 
 ## Find Me 🔍
-<a href="http://instagram.com/codesignr/"><img src="/img/instagram.png" alt="instagram" width="20px"></a>
-<a href="https://www.linkedin.com/in/chidera-obinali/"><img src="/img/linkedin.png" alt="linkedin" width="12px"></a>
-<a href="https://dribbble.com/chideraobi"><img src="/img/dribbble.png" alt="dribbble" width="20px"></a>
+<a href="http://instagram.com/codesignr/"><img src="/img/instagram.png" alt="instagram" width="40px"></a>
+<a href="https://www.linkedin.com/in/chidera-obinali/"><img src="/img/linkedin.png" alt="linkedin" width="40px"></a>
+<a href="https://dribbble.com/chideraobi"><img src="/img/dribbble.png" alt="dribbble" width="40px"></a>
