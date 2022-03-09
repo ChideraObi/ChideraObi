@@ -1,5 +1,4 @@
 # Hey, I'm Chidera 👩🏾‍💻
-`img placeholder`
 
 ## About Me 🧠
 Front-end developer and illustrator based in Atlanta, GA. Fascinated by everything web/ui related. Proudly Igbo 🇳🇬.
