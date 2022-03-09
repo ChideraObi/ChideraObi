@@ -5,7 +5,7 @@
 Front-end developer and illustrator based in Atlanta, GA. Fascinated by everything web/ui related. Proudly Igbo 🇳🇬.
 
 - 🌱 Studying: `react`, `sass`, `human anatomy`
-- ⚙️ Mastering: `.html`,`.css`,`.js`, `adobe CC`
+- ⚙️ Mastering: `.js`, `3D design`, and `how to swim`
 - 👐🏾 Open to: Collaboration Projects & Full-time Roles
 
 ## Offline 📵
